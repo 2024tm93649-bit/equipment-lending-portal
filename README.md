@@ -30,7 +30,7 @@ npm install
 
 Add a .env file with 
 ini
-MONGO_URI = mongodb+srv://atlas_user:<SREE>@freecluster.osasl0w.mongodb.net/?appName=FreeCluster
+MONGO_URI = mongodb+srv://atlas_user:SREE@freecluster.osasl0w.mongodb.net/?appName=FreeCluster
 JWT_SECRET =  secretkey
 PORT = 5000
 
